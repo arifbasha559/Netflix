@@ -1,3 +1,4 @@
 tailwind.config.js
 extensions.json
-.\.vscode\
+# .\.vscode\setting.json
+.vscode/
